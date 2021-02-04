@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[system is back]]>
+    </line>
+    <line>
+      <![CDATA[system is back]]>
+    </line>
+    <line>
+      <![CDATA[customer is in selected the field]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-02-03T05:26:03Z" name="GroupRun" finished-at="2021-02-03T05:28:06Z" duration-ms="123352">
+    <groups>
+    </groups>
+    <test started-at="2021-02-03T05:26:03Z" name="GroupRun" finished-at="2021-02-03T05:28:06Z" duration-ms="123352">
+      <class name="com.hrms.TestScripts.Tc002">
+        <test-method signature="method()[pri:0, instance:com.hrms.TestScripts.Tc002@3c41ed1d]" started-at="2021-02-03T10:57:40Z" name="method" finished-at="2021-02-03T10:58:06Z" duration-ms="26545" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[system is back]]>
+            </line>
+            <line>
+              <![CDATA[customer is in selected the field]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- com.hrms.TestScripts.Tc002 -->
+      <class name="com.hrms.TestScripts.TC001">
+        <test-method signature="demo()[pri:0, instance:com.hrms.TestScripts.TC001@7c7a06ec]" started-at="2021-02-03T10:56:03Z" name="demo" finished-at="2021-02-03T10:57:40Z" duration-ms="96780" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[system is back]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.hrms.TestScripts.TC001 -->
+    </test> <!-- GroupRun -->
+  </suite> <!-- GroupRun -->
+</testng-results>
